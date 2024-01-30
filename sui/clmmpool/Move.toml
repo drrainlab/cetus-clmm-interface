@@ -6,7 +6,7 @@ version = "1.1.0"
 published-at = "0xc33c3e937e5aa2009cc0c3fdb3f345a0c3193d4ee663ffc601fe8b894fbc4ba6"
 
 [dependencies]
-Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "testnet-v1.15.1" }
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
 MoveSTL = { git = "https://github.com/drrainlab/move-stl.git", subdir = "sui", rev = "v0.0.3" }
 IntegerMate = { git = "https://github.com/drrainlab/integer-mate.git", subdir = "sui", rev = "v0.0.3" }
 
