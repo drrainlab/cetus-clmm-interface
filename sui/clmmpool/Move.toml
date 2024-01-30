@@ -1,8 +1,8 @@
-# mainnet
+# testnet
 # --------------------------
 [package]
 name = "CetusClmm"
-version = "1.1.0"
+version = "1.2.0"
 published-at = "0x1c29d658882c40eeb39a8bb8fe58f71a216a918acb3e3eb3b47d24efd07257f2"
 
 [dependencies]
